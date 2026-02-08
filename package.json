@@ -1,0 +1,14 @@
+{
+  "name": "demo-frontend-service",
+  "version": "1.0.0",
+  "description": "Demo frontend service for Port",
+  "main": "index.js",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build"
+  },
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  }
+}
